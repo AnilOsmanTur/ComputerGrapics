@@ -1,16 +1,13 @@
 # ComputerGrapics
 
 ## Draw Terrain
-<video width="320" height="320" controls>
-  <source src="terrain_demo.webm" type="video/webm">
-</video>
 
-[Demo](terrain_demo.webm)
+![Terrain demo gif](demos/terrain_demo.gif)
+
+[Demo video](terrain_demo.webm)
 
 ## Draw Humanoid Robot
 
-<video width="320" height="320" controls>
-  <source src="humanoid_demo.webm" type="video/webm">
-</video>
+![humanoid demo gif](demos/humanoid_demo.gif)
 
-[Demo](humanoid_demo.webm)
+[Demo video](demos/humanoid_demo.webm)
